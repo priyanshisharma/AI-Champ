@@ -19,13 +19,23 @@ Interesting notebooks for titanic dataset and getting started are:
 
 ## Doubts
 * In the quiz, spam detection was supposed to be classified as *Supervised* or *Unsupervised*, but couldn't is be both? Anomaly detection for unsupervised and 
-classification for supervised?
+classification for supervised?<br/>
+
+Spam Detection is **supervised** because there is a possiblity (in the case of multiple subscriptions) that spam emails are more frequent or nearly as frequent as regular emails, thereby they aren't anomalies. (Anomalies <<< Normal)
+
 * Running the following in python: 
 ```
 a = np.arange(14)
 c = np.array(range(14))
 print(a is c)
 ```
-even though they look exactly same on printing `a` and `c`, the condition `a is c` is `False`. Why?
-* Is *validation* set and *cross-validation* set different?
-* Difference between *Train dev set* and *validation set*? (As I happen to believe they both are for comparing algorithms.) 
+even though they look exactly same on printing `a` and `c`, the condition `a is c` is `False`. Why?<br/>
+
+Their values are same, they aren't.
+
+* Is *validation* set and *cross-validation* set different?<br/>
+Yes they're different. Cross - Validation comes up in situations like k-fold cross validation. Look at the illustration below. <br/>
+![Cross Validation](cross-validation.jpg)
+
+* Difference between *Train dev set* and *validation set*? (As I happen to believe they both are for comparing algorithms.) <br/>
+They're the same.
