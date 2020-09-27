@@ -35,7 +35,7 @@ Their values are same, they aren't.
 
 * Is *validation* set and *cross-validation* set different?<br/>
 Yes they're different. Cross - Validation comes up in situations like k-fold cross validation. Look at the illustration below. <br/>
-![Cross Validation](cross-validation.jpg)
+![Cross Validation](cross-validation.png)
 
 * Difference between *Train dev set* and *validation set*? (As I happen to believe they both are for comparing algorithms.) <br/>
 They're the same.
