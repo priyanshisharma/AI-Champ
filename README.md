@@ -8,5 +8,5 @@ This repository will be maintained as per my progress in Code Vector's AI Champ 
 * Participate in Kaggle competitions, read available notebooks
 
 ### Week 3
-**Beginner** - Predict median housing price in any district, given all other metrics. Use https://github.com/ageron/handson-ml2/tree/master/datasets/housing
-**Master** - https://www.kaggle.com/hojjatk/mnist-dataset
+* **Beginner** - Predict median housing price in any district, given all other metrics. Use https://github.com/ageron/handson-ml2/tree/master/datasets/housing
+* **Master** - https://www.kaggle.com/hojjatk/mnist-dataset
