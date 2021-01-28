@@ -1,0 +1,120 @@
+,regular_periods,rapid_weight_gain,excess_hair,dark_patches,pimples,depression_and_anxiety,diabetic_hypertension_family_history,body_weight_maintain_difficulty,oily_skin,hair_strength_loss,eat_frequency,regular_excercise,sleep_time,wake_time,hostel_stress,personal_stress,peer_pressure,dietary_stress,fast_food_frequency,PCOS
+0,hb,y,y,n,y,y,n,y,y,y,hm,n,11.00pm,7.00am,n,y,n,n,w,mb n
+1,im,y,y,n,n,y,n,y,n,y,hm,n,12.00am,8.00am,n,n,n,y,w,mb
+2,hb,y,y,n,n,y,n,y,n,y,hm,n,11.00pm,7.00am,n,n,y,n,w,mb n
+3,ib,n,y,n,n,y,y,y,n,y,hm,n,3.00am,7.30am,n,n,n,y,w,mb n
+4,im,y,y,n,n,y,y,y,y,y,hm,n,12.00am,8.30am,n,y,n,n,w,mb
+5,No,n,n,n,y,n,y,y,y,y,hm,n,12.30am,8.00am,n,n,n,n,w,mb n
+6,im,n,y,y,n,n,y,y,y,y,hm,n,12.00am,7.30am,n,n,n,n,w,mb
+7,im,n,n,n,y,n,y,n,y,n,hm,n,12.00am,8.30am,n,n,n,n,w,mb n
+8,im,n,n,n,y,y,y,n,y,y,hm,n,12.00am,7.00am,n,n,n,n,m, mb n
+9,im,n,y,y,n,n,y,y,y,y,hm,n,9.30pm,7.00am,n,n,y,n,m,mb
+10,im,n,y,n,y,y,n,n,y,y,hm,n,11.00pm,7.00am,n,y,y,n,m,mb
+11,im,n,n,n,y,n,y,n,y,y,hm,n,11.00pm,7.30am,n,n,n,n,ed,mb
+12,ib,y,n,n,n,n,n,y,n,y,hm,n,12.00am,8.00am,n,y,n,n,ed,mb n
+13,im,y,n,n,y,y,y,y,y,y,hm,y,11.00pm,6.00am,n,y,n,n,e,mb
+14,hb,y,n,n,y,y,n,y,y,y,hm,n,11.00pm,7.30am,y,n,n,n,ed,mb n
+15,yes,n,n,n,n,n,n,n,y,y,hm,n,3.30am,8.00am,n,n,n,n,m,mb n
+16,yes,n,n,n,n,n,n,n,y,n,hm,n,11.00pm,6.30am,n,n,n,n,y,mb n
+17,No,n,n,n,n,n,n,n,y,n,hm,y,11.00pm,7.30am,n,n,n,y,w,mb n
+18,im,n,y,n,n,n,y,n,n,y,cc,n,12.00am,7.30am,n,n,n,y,ed,mb
+19,im,n,y,n,n,n,n,n,y,n,hm,n,11.00pm,6.30am,n,n,n,n,w,mb
+20,ib,n,n,n,n,n,n,n,n,y,hm,y,12.30am,7.45am,y,n,n,y,w,mb n
+21,im,n,n,n,n,n,y,n,n,n,hm,n,11.30pm,7.00am,n,y,n,n,m,mb n
+22,No,n,n,n,y,y,y,y,n,y,hm,n,12.00am,8.30am,y,n,n,n,m,mb n
+23,im,n,y,y,y,y,y,y,y,y,hm,n,12.00am,7.00am,n,y,n,n,w,mb
+24,im,n,y,n,y,y,n,n,y,n,hm,n,11.00pm,7.00am,n,y,n,n,w,mb
+25,yes,y,n,n,y,n,n,y,n,y,hm,n,11.00pm,7.00am,n,n,n,n,w,mb n
+26,yes,y,n,n,n,n,n,y,n,n,hm,n,12.00am,7.00am,n,y,y,n,m,mb n
+27,yes,n,n,n,n,n,n,n,n,y,hm,n,11.00pm,7.00am,n,n,n,n,w,mb n
+28,yes,n,n,n,n,n,n,n,y,y,hm,y,0.9375,0.2291666666666667,y,n,n,n,w,mb n
+29,yes,y,y,y,y,y,n,y,y,y,hm,n,0.9583333333333334,0.3125,n,n,n,y,w,mb n
+30,yes,n,n,n,n,n,n,n,n,n,hm,n,1:00am,0.3125,n,n,n,y,w,mb n
+31,yes,n,n,n,n,n,y,n,n,n,hm,n,0,0.2916666666666667,n,n,n,n,w,mb n
+32,yes,n,n,n,n,y,n,n,n,y,hm,n,0.9583333333333334,9:00am,n,y,n,n,w,mb n
+33,yes,n,n,n,y,n,n,n,y,y,hm,n,0,0.3333333333333333,n,n,n,n,w,mb n
+34,yes,n,n,n,n,n,n,n,n,n,hm,n,11:00pm ,0.25,n,n,n,n,w,mb n
+35,yes,y,n,n,n,n,n,y,y,y,hm,n,0.9375,7:00am,y,n,n,n,w,mb n
+36,im,n,n,n,n,n,y,n,y,n,hm,n,0.9791666666666666,0.2916666666666667,n,n,n,n,ed,mb n
+37,yes,n,n,n,n,n,n,n,n,n,hm,n,10:00am,7.15 am,n,n,n,n,ed,mb n
+38,yes,n,n,n,y,y,y,n,y,y,hm,n,10:30pm,7:30am,n,n,y,n,y,mb n
+39,yes,n,n,n,y,n,n,n,y,y,cc,n,0.9583333333333334,0.2916666666666667,n,n,n,n,ed,mb n
+40,yes,n,n,n,n,n,y,y,n,n,hm,n,0.9583333333333334,7:30am,n,n,n,n,w,mb n
+41,yes,n,n,n,n,y,n,n,n,y,hm,n,0.9583333333333334,0.3333333333333333,y,n,n,n,w,mb n
+42,hb,n,n,n,n,n,y,n,n,y,hm,n,10:30pm,7:30am,n,n,n,n,ed,mb n
+43,yes,n,n,n,n,n,n,y,y,y,hm,n,11:00pm ,0.3333333333333333,n,n,n,y,w,mb n
+44,yes,n,n,n,y,n,y,n,y,y,hm,n,0.9375,0.2916666666666667,n,n,n,n,w,mb n
+45,yes,y,n,y,n,y,y,y,n,y,hm,n,0.5,0.25,n,n,n,n,w,mb n
+46,yes,n,n,n,n,n,y,y,y,y,hm,n,0.9583333333333334,0.3333333333333333,n,n,n,y,w,mb n
+47,im,y,y,n,n,n,y,y,n,y,hm,n,0,0.3333333333333333,n,n,n,n,w,mb
+48,hb,y,y,n,y,y,n,y,y,y,hm,n,11.00pm,7.00am,n,y,n,n,w,mb n
+49,im,y,y,n,n,y,n,y,n,y,hm,n,12.00am,8.00am,n,n,n,y,w,mb
+50,hb,y,y,n,n,y,n,y,y,y,hm,n,11.00pm,7.00am,n,n,y,n,w,mb n
+51,ib,n,y,n,n,y,y,y,n,y,hm,n,3.00am,7.30am,n,n,n,y,w,mb n
+52,im,y,y,n,n,n,y,y,y,y,hm,n,12.00am,8.30am,n,y,n,y,w,mb
+53,No,n,n,n,n,n,y,y,y,y,hm,n,12.30am,8.00am,n,n,n,n,w,mb n
+54,im,n,y,y,n,n,y,y,y,y,hm,n,12.00am,7.30am,n,n,n,n,w,mb
+55,im,n,n,n,y,n,y,n,y,n,hm,n,12.00am,8.30am,n,n,n,n,w,mb
+56,im,n,n,n,y,y,y,n,y,y,hm,n,12.00am,7.00am,n,n,n,n,m,mb
+57,im,n,y,y,n,n,y,y,y,y,hm,n,9.30pm,7.00am,n,n,y,n,m,mb
+58,im,n,y,n,y,y,n,n,y,y,hm,n,11.00pm,7.00am,n,y,n,n,m,mb
+59,im,n,n,n,y,n,y,n,y,y,cc,n,11.00pm,7.30am,n,n,n,n,ed,mb
+60,ib,y,n,n,n,n,n,y,n,y,hm,n,12.00am,8.00am,n,y,n,n,ed,mb n
+61,Im,y,n,n,y,y,y,y,y,y,hm,y,11.00pm,6.00am,n,y,n,n,w,mb
+62,hb,y,n,n,y,y,n,y,y,y,hm,n,11.00pm,7.30am,n,n,n,n,ed,mb n
+63,yes,n,n,n,n,n,n,n,y,y,hm,n,3.30am,8.00am,n,n,n,n,m,mb n
+64,yes,n,n,n,n,n,n,n,y,n,hm,n,11.00pm,6.30am,n,n,n,n,y,mb n
+65,No,n,n,n,n,n,n,n,y,n,hm,n,11.00pm,7.30am,n,n,n,y,w,mb n
+66,hb,n,y,n,n,n,y,n,n,y,cc,n,12.00am,7.30am,n,n,n,y,ed,mb
+67,im,n,y,n,n,n,n,n,y,n,hm,n,11.00pm,6.30am,n,n,n,n,w,mb
+68,ib,n,n,n,n,n,n,n,n,y,hm,y,12.30am,7.45am,y,n,n,y,w,mb n
+69,im,n,n,n,n,n,y,n,n,n,hm,n,11.30pm,7.00am,n,y,n,n,m,mb n
+70,No,n,n,n,y,y,y,y,n,y,hm,n,12.00am,8.30am,y,n,n,n,m,mb n
+71,im,n,y,y,y,y,y,y,y,y,hm,n,12.00am,7.00am,n,y,n,n,w,mb
+72,im,n,y,n,y,y,n,n,y,n,hm,n,11.00pm,7.00am,n,y,n,n,w,mb
+73,yes,y,n,n,y,n,n,y,n,y,hm,n,11.00pm,7.00am,n,n,n,n,w,mb n
+74,yes,y,n,n,n,n,n,y,n,n,hm,n,12.00am,7.00am,n,y,y,n,m,mb n
+75,yes,n,n,n,n,n,n,n,n,y,hm,n,11.00pm,7.00am,n,n,n,n,w,mb n
+76,yes,n,y,n,n,n,y,n,y,n,hm,n,10.00pm,6.00am,n,n,n,n,w,mb n
+77,yes,n,n,n,n,n,n,n,n,y,hm,y,11.30pm,6.30am,n,n,n,y,m,mb n
+78,yes,n,n,y,n,n,y,n,n,y,hm,n,12am,7.30pm,n,y,y,n,m,mb n
+79,yes,n,n,n,y,n,n,n,y,y,hm,n,11.00pm,7.30am,n,n,n,n,w,mb n
+80,yes,n,n,y,n,n,n,n,no,y,hm,n,10.00pm,5.00am,n,n,n,n,m,mb n
+81,yes,n,n,n,y,n,n,n,y,y,hm,n,12.00am,7.45am,n,n,n,n,m,mb n
+82,yes,n,n,n,n,n,y,n,n,n,hm,n,12.00pm,8.00am,n,n,n,n,m,mb n
+83,yes,n,n,n,n,n,n,y,n,y,hm,n,11.00pm,7.00am,y,n,n,n,w,mb n
+84,yes,y,n,n,n,n,y,n,n,y,hm,y,11.30pm,7.30am,y,n,n,n,w,mb n
+85,yes,n,y,y,n,n,n,n,n,y,hm,n,11.30pm,7.30am,n,n,n,n,w,mb n
+86,yes,n,n,n,y,y,n,n,y,n,hm,n,11.30pm,8.00am,n,n,n,n,m,mb n
+87,yes,n,n,n,n,n,n,n,n,n,hm,n,2.00pm,8.00am,y,n,n,y,m,mb n
+88,yes,n,n,n,n,n,n,n,n,n,hm,n,2.00pm,8.00am,n,n,n,y,m,mb n
+89,yes,n,n,n,n,y,n,y,n,n,hm,n,11.00pm,7.30am,n,n,n,n,w,mb n
+90,yes,n,y,n,y,n,n,n,y,n,hm,y,11.00pm,7.00am,n,n,n,n,w,mb n
+91,hb,n,n,n,y,y,n,n,n,y,hm,n,2.00pm,8.00am,y,n,n,n,w,mb n
+92,im,n,n,n,n,n,n,n,n,n,hm,n,10.00pm,6.00am,y,n,n,n,w,mb n
+93,hb,n,y,n,n,n,n,n,n,n,hm,n,12.00pm,8.00am,n,n,n,n,w,mb n
+94,yes,n,n,n,n,n,n,n,y,n,hm,n,11.00pm,7.00am,n,n,n,y,w,mb n
+95,yes,n,n,n,n,n,y,n,n,n,hm,n,11.30pm,7.30am,n,n,n,y,w,mb n
+96,yes,n,n,n,n,n,n,n,n,n,hm,n,12.30pm,7.45am,n,n,n,y,m,mb n
+97,hb,n,n,n,n,n,n,n,n,y,hm,n,12.30pm,8.00am,n,n,y,n,m,mb n
+98,yes,n,n,y,n,n,n,n,n,y,hm,n,12.30pm,7.00am,y,n,n,n,m,mb n
+99,yes,n,n,n,y,n,n,y,n,n,hm,n,11.00pm,7.00am,n,n,n,n,w,mb n
+100,yes,n,n,n,y,n,y,n,y,n,hm,n,11.30pm,7.30am,n,n,n,n,w,mb n
+101,yes,n,y,y,y,n,n,n,y,y,hm,n,11.00pm,7.00am,n,n,n,n,ed,mb n
+102,yes,y,y,y,y,n,n,y,y,y,hm,n,12.30pm,7.30am,y,n,n,n,w,mb n
+103,yes,n,n,y,y,y,y,y,y,y,hm,y,11.00pm,7.00am,y,n,n,n,w,mb n
+104,yes,n,n,n,n,n,y,n,y,y,hm,n,12:00am,8:30am,n,n,n,n,w,mb n
+105,yes,n,y,n,n,n,y,n,n,y,hm,n,12:00am,8:00am,y,n,n,y,w,mb n
+106,yes,n,n,n,y,y,n,n,n,n,hm,n,11:00pm,7:30am,n,n,y,n,y,mb n
+107,yes,n,y,n,y,n,y,n,y,y,hm,n,12:00am,7:30am,n,n,n,n,y,mb n
+108,yes,n,n,n,n,n,n,n,n,y,hm,n,11:00pm,7:00am,y,n,n,n,y,mb n
+109,yes,n,n,n,y,n,n,n,y,n,hm,n,10:30pm,7:00am,n,n,y,n,w,mb n
+110,yes,n,n,n,n,n,n,n,n,y,hm,n,11:30pm,7:00am,n,n,n,n,m,mb n
+111,yes,n,n,n,n,n,n,n,n,y,hm,n,3:00am,7:30am,n,n,n,y,w,mb n
+112,yes,n,n,n,n,n,y,n,y,y,hm,n,12:30am,7:30am,y,n,n,n,m,mb n
+113,yes,n,n,n,n,n,n,n,n,n,hm,n,11:00am,6:30am,y,n,n,n,w,mb n
+114,yes,y,n,n,n,n,y,n,y,n,hm,n,10:00pm,6:00am,n,n,n,n,m,mb n
+115,yes,n,n,n,y,n,n,n,n,y,hm,y,11:00pm,7:00am,n,n,n,n,m,mb n
+116,yes,n,n,n,n,n,n,n,n,n,hm,y,10:00pm,7:00am,n,n,n,n,w,mb n
+117,yes,n,y,n,y,n,n,n,n,y,hm,n,12:00am,6:30am,n,n,n,y,w,mb n
+118,yes,n,n,n,n,n,n,n,y,y,hm,n,12:00am,7:30am,n,n,n,n,w,mb n
